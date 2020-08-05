@@ -1,4 +1,5 @@
 # Android-Calculator
 Android Calculator 
-![Optional Text](../master/imaes/a.jpg)
+
+![Alt text](/master/imaes/a.jpg?raw=true "Optional Title")
 
