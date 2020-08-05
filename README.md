@@ -1,4 +1,4 @@
 # Android-Calculator
 Android Calculator 
-![stack Overflow](http://lmsotfy.com/so.png)
+![myimage-alt-tag](./images/a.jpg)
 
